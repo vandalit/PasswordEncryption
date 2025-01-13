@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos de configuración y caché de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de salida generados
+output_encoded.txt
+output_decoded.txt
+
+# Archivos de entrada sensibles
+input_password.txt
+
+# Configuración específica del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
